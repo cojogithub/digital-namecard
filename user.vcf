@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
+N:Condutor;The;;;
 FN: The Conductor  
 ORG:istWorld;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
+TITLE:A&R Specialist, 1stWorld Entertainment 
+EMAIL;type=INTERNET;type=WORK;type=pref:newmusic@1stworldent.com
 TEL;type=WORK;type=VOICE:+1-240-938-6245
 item1.ADR;type=WORK;type=pref:;;1 23 C Street \Laurel Md ;;;20707;USA
 item1.X-ABADR:sg
